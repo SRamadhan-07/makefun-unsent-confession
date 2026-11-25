@@ -1,8 +1,8 @@
 # Unsent: The Micro-Confession Sprint
 
-![make.fun bounty](https://make.fun/badge/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba.svg)
-![rank](https://make.fun/badge/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba/SRamadhan-07/makefun-unsent-confession/rank.svg)
-![reward](https://make.fun/badge/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba/SRamadhan-07/makefun-unsent-confession/reward.svg)
+[![make.fun bounty](https://make.fun/badge/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba.svg)](https://make.fun/bounty/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba)
+[![rank](https://make.fun/badge/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba/SRamadhan-07/makefun-unsent-confession/rank.svg)](https://make.fun/bounty/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba)
+[![reward](https://make.fun/badge/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba/SRamadhan-07/makefun-unsent-confession/reward.svg)](https://make.fun/bounty/u-boothlord-unsent-the-micro-confession-sprint-8c6596ba)
 
 A Python program (standard library only) that writes a two-part micro-confession to `/output/entry.txt`: a `To:` line naming who the message was meant for, and the one-line message that was never sent — with no explanation after it.
 
